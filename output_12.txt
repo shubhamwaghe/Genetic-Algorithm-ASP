@@ -1,0 +1,722 @@
+Sequence: [0, 1, 2, 4, 6, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 2, 4, 6, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 2, 4, 7, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 2, 4, 7, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 2, 4, 10, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 2, 4, 10, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 2, 6, 4, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 2, 6, 4, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 2, 6, 10, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 2, 10, 4, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 2, 10, 4, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 2, 10, 6, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 4, 2, 6, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 4, 2, 6, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 4, 2, 7, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 4, 2, 7, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 4, 2, 10, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 4, 2, 10, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 1, 4, 7, 2, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 4, 7, 2, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 4, 7, 10, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 4, 10, 2, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 4, 10, 2, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 4, 10, 7, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 10, 2, 4, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 10, 2, 4, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 10, 2, 6, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 1, 10, 4, 2, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 10, 4, 2, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 1, 10, 4, 7, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 2, 1, 4, 6, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 1, 4, 6, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 1, 4, 7, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 1, 4, 7, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 1, 4, 10, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 1, 4, 10, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 1, 6, 4, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 1, 6, 4, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 1, 6, 10, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 1, 10, 4, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 1, 10, 4, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 1, 10, 6, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 1, 6, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 4, 1, 6, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 4, 1, 7, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 4, 1, 7, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 4, 1, 10, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 4, 1, 10, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 4, 6, 1, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 6, 1, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 6, 7, 1, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 6, 7, 10, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 4, 6, 10, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 6, 10, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 4, 7, 1, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 7, 1, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 7, 6, 1, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 7, 6, 10, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 4, 7, 10, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 7, 10, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 4, 10, 1, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 10, 1, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 10, 6, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 10, 6, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 4, 10, 7, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 4, 10, 7, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 2, 6, 1, 4, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 6, 1, 4, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 6, 1, 10, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 2, 6, 4, 1, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 6, 4, 1, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 6, 4, 7, 1, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 2, 6, 4, 7, 10, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 6, 4, 10, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 2, 6, 4, 10, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 6, 10, 1, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 6, 10, 4, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 6, 10, 4, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 10, 1, 4, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 10, 1, 4, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 10, 1, 6, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 2, 10, 4, 1, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 10, 4, 1, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 10, 4, 6, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 2, 10, 4, 6, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 10, 4, 7, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 2, 10, 4, 7, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 10, 6, 1, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 10, 6, 4, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 2, 10, 6, 4, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 1, 2, 6, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 1, 2, 6, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 1, 2, 7, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 1, 2, 7, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 1, 2, 10, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 1, 2, 10, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 1, 7, 2, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 1, 7, 2, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 1, 7, 10, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 1, 10, 2, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 1, 10, 2, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 1, 10, 7, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 1, 6, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 2, 1, 6, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 2, 1, 7, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 2, 1, 7, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 2, 1, 10, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 2, 1, 10, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 2, 6, 1, 7, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 6, 1, 10, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 6, 7, 1, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 6, 7, 10, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 2, 6, 10, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 6, 10, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 2, 7, 1, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 7, 1, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 7, 6, 1, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 7, 6, 10, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 2, 7, 10, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 7, 10, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 2, 10, 1, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 10, 1, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 10, 6, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 10, 6, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 2, 10, 7, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 2, 10, 7, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 8
+
+Sequence: [0, 4, 7, 1, 2, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 7, 1, 2, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 7, 1, 10, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 4, 7, 2, 1, 6, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 7, 2, 1, 10, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 7, 2, 6, 1, 10, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 4, 7, 2, 6, 10, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 7, 2, 10, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 4, 7, 2, 10, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 7, 10, 1, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 7, 10, 2, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 7, 10, 2, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 10, 1, 2, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 10, 1, 2, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 10, 1, 7, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 4, 10, 2, 1, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 10, 2, 1, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 10, 2, 6, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 4, 10, 2, 6, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 10, 2, 7, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 4, 10, 2, 7, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 10, 7, 1, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 10, 7, 2, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 4, 10, 7, 2, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 1, 2, 4, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 1, 2, 4, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 1, 2, 6, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 1, 4, 2, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 1, 4, 2, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 1, 4, 7, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 2, 1, 4, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 2, 1, 4, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 2, 1, 6, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 2, 4, 1, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 2, 4, 1, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 2, 4, 6, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 2, 4, 6, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 2, 4, 7, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 2, 4, 7, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 2, 6, 1, 4, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 2, 6, 4, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 2, 6, 4, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 4, 1, 2, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 4, 1, 2, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 4, 1, 7, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 4, 2, 1, 6, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 4, 2, 1, 7, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 4, 2, 6, 1, 7, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 4, 2, 6, 7, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 4, 2, 7, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 4, 2, 7, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 9
+
+Sequence: [0, 10, 4, 7, 1, 2, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 4, 7, 2, 1, 6, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Sequence: [0, 10, 4, 7, 2, 6, 1, 3, 8, 11, 5, 9]
+Orientation changes: 4
+Tool gripper changes: 10
+
+Total sequences: 180
+[Finished in 1660.8s]
