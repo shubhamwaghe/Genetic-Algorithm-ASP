@@ -97,6 +97,7 @@ ga.selector.set(Selectors.GTournamentSelector)
 ga.setMinimax(Consts.minimaxType["minimize"])
 
 ga.evolve(freq_stats=50)
+print ga.bestIndividual()
 if check_precedence_criteria(list(ga.bestIndividual())) == True:
     print "Final Sequence: " , [ m+1 for m in list(ga.bestIndividual()) ]
     print "Tool Changes: ", calc_tool_changes(list(ga.bestIndividual()))
