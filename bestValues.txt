@@ -1,0 +1,15 @@
+* Parameter Tuning: 
+
+16 parts assembly -
+1. CrossOver: Crossover rate, Fitness value:  [0.94500000000000006, 0.009657570630486837]
+2. Mutation: Mutation rate, Fitness value: [0.012000000000000004, 0.007327995436394755]
+3. Generations: No. of generations, Fitness value: [260, 0.008321740906647557]
+4. Population Size: Population Size, Fitness value: [180, 0.011537538578055461]
+
+
+12 parts assembly -
+1. CrossOver: Crossover rate, Fitness value:  [0.90000000000000002, 0.0106837668161435]
+2. Mutation: Mutation rate, Fitness value: [0.013000000000000005, 0.008113684210526322]
+3. Generations: No. of generations, Fitness value: [410, 0.008450154847104756]
+4. Population Size: Population Size, Fitness value: [80, 0.01108688566258832]
+

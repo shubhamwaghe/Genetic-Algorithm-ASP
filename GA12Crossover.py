@@ -6,19 +6,19 @@ import numpy
 
 
 #Number of Parts
-NUM_PARTS = 16
+NUM_PARTS = 12
 
 #Precedence Matrix
-with open('precedence_matrix_16.csv', 'rb') as csvfile:
+with open('precedence_matrix_12.csv', 'rb') as csvfile:
     precedence_list = []
     for line in csvfile.readlines():
         array = line.strip().encode('utf-8').split(',')
         precedence_list.append(array)
 
 #Directions / Orientations
-orientations = ['-z','+x','-z','-z','-z','-z','-z','-z','-z','-z','+y','+y','-y','-y','+x','+x']
+orientations = ['-z','-z','-z','-z','-z','+z','-z','+x','-z','-y','-z','-z']
 #Tool Grippers
-tools_grippers = ['A','B','C','C','D','D','D','D','E','E','E','E','E','E','F','F']
+tools_grippers = ['A','A','A','A','A','A','B','C','D','E','F','G']
 
 def check_precedence_criteria(sequence):
     for i,part in enumerate(sequence):

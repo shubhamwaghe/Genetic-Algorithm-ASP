@@ -85,7 +85,8 @@ genome.evaluator.set(fitness_func)
 
 mutation_rate = []
 fitness_value = []
-for x in numpy.arange(0.002,0.05,0.001):
+best_value = [1,1]
+for x in numpy.arange(0.008,0.04,0.001):
     ga = GSimpleGA.GSimpleGA(genome)
     ga.setGenerations(200)
     ga.setPopulationSize(50)
@@ -99,9 +100,12 @@ for x in numpy.arange(0.002,0.05,0.001):
     # print best.score
     if check_precedence_criteria(list(best)) == True:
         print "X: ", x, best.fitness
+        if best.fitness < best_value[1]:
+            best_value = [x,best.fitness]
         mutation_rate.append(x)
         fitness_value.append(best.fitness)
 
+print "Best Fitness: ", best_value
 plt.plot(mutation_rate, fitness_value)
 plt.xlabel('Mutation rate')
 plt.ylabel('Fitness Value')

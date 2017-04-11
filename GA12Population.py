@@ -6,19 +6,19 @@ import numpy
 
 
 #Number of Parts
-NUM_PARTS = 16
+NUM_PARTS = 12
 
 #Precedence Matrix
-with open('precedence_matrix_16.csv', 'rb') as csvfile:
+with open('precedence_matrix_12.csv', 'rb') as csvfile:
     precedence_list = []
     for line in csvfile.readlines():
         array = line.strip().encode('utf-8').split(',')
         precedence_list.append(array)
 
 #Directions / Orientations
-orientations = ['-z','+x','-z','-z','-z','-z','-z','-z','-z','-z','+y','+y','-y','-y','+x','+x']
+orientations = ['-z','-z','-z','-z','-z','+z','-z','+x','-z','-y','-z','-z']
 #Tool Grippers
-tools_grippers = ['A','B','C','C','D','D','D','D','E','E','E','E','E','E','F','F']
+tools_grippers = ['A','A','A','A','A','A','B','C','D','E','F','G']
 
 def check_precedence_criteria(sequence):
     for i,part in enumerate(sequence):
@@ -86,15 +86,16 @@ genome.evaluator.set(fitness_func)
 crossover_rate = []
 fitness_value = []
 best_value = [1,1]
-for x in numpy.arange(0.85,1,0.005):
+for x in numpy.arange(50,500,10):
     ga = GSimpleGA.GSimpleGA(genome)
+    # ga.setPopulationSize(20)
     ga.setGenerations(200)
-    ga.setPopulationSize(50)
     ga.selector.set(Selectors.GTournamentSelector)
     ga.setMutationRate(0.02)
+    ga.setCrossoverRate(0.9)
     # Set type of objective/ fitness function: Convergence
     ga.setMinimax(Consts.minimaxType["minimize"])
-    ga.setCrossoverRate(x)
+    ga.setPopulationSize(x)
     ga.evolve()
     best = ga.bestIndividual()
     # print best.score
@@ -107,9 +108,9 @@ for x in numpy.arange(0.85,1,0.005):
 
 print "Best Fitness: ", best_value
 plt.plot(crossover_rate, fitness_value)
-plt.xlabel('Crossover rate')
+plt.xlabel('Population size')
 plt.ylabel('Fitness Value')
-plt.title('Crossover rate v/s Fitness value')
+plt.title('Population size v/s Fitness value')
 plt.grid(True)
 plt.show()
 
